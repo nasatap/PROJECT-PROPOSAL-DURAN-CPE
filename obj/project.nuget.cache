@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cu70FAuPjlA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\excel\\source\\repos\\ProjectProposal_test1\\ProjectProposal_test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\excel\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

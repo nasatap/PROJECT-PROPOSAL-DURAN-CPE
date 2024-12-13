@@ -1,0 +1,17 @@
+C:\Users\excel\source\repos\ProjectProposal_test1\bin\Debug\net8.0\ProjectProposal_test1.exe
+C:\Users\excel\source\repos\ProjectProposal_test1\bin\Debug\net8.0\ProjectProposal_test1.deps.json
+C:\Users\excel\source\repos\ProjectProposal_test1\bin\Debug\net8.0\ProjectProposal_test1.runtimeconfig.json
+C:\Users\excel\source\repos\ProjectProposal_test1\bin\Debug\net8.0\ProjectProposal_test1.dll
+C:\Users\excel\source\repos\ProjectProposal_test1\bin\Debug\net8.0\ProjectProposal_test1.pdb
+C:\Users\excel\source\repos\ProjectProposal_test1\obj\Debug\net8.0\ProjectProposal_test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\excel\source\repos\ProjectProposal_test1\obj\Debug\net8.0\ProjectProposal_test1.AssemblyInfoInputs.cache
+C:\Users\excel\source\repos\ProjectProposal_test1\obj\Debug\net8.0\ProjectProposal_test1.AssemblyInfo.cs
+C:\Users\excel\source\repos\ProjectProposal_test1\obj\Debug\net8.0\ProjectProposal_test1.csproj.CoreCompileInputs.cache
+C:\Users\excel\source\repos\ProjectProposal_test1\obj\Debug\net8.0\ProjectProposal_test1.dll
+C:\Users\excel\source\repos\ProjectProposal_test1\obj\Debug\net8.0\refint\ProjectProposal_test1.dll
+C:\Users\excel\source\repos\ProjectProposal_test1\obj\Debug\net8.0\ProjectProposal_test1.pdb
+C:\Users\excel\source\repos\ProjectProposal_test1\obj\Debug\net8.0\ProjectProposal_test1.genruntimeconfig.cache
+C:\Users\excel\source\repos\ProjectProposal_test1\obj\Debug\net8.0\ref\ProjectProposal_test1.dll
+C:\Users\excel\source\repos\ProjectProposal_test1\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\excel\source\repos\ProjectProposal_test1\obj\Debug\net8.0\ProjectProposal_test1.csproj.AssemblyReference.cache
+C:\Users\excel\source\repos\ProjectProposal_test1\obj\Debug\net8.0\ProjectP.52B2F06A.Up2Date
